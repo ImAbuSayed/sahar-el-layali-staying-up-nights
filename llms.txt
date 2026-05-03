@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Sahar El Layali – Staying Up Nights |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sahar-el-layali-staying-up-nights/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في عتمة الليل بناديكِ
+> وروحي بتسأل على نور عينيكِ
+> لو تبعدي ثواني قلبي يلاقيكِ
+> أنا كلي فداكِ وما عشتش إلا ليكِ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
